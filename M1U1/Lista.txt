@@ -1,3 +1,5 @@
 Comederos
 Identificadores
 Huesos
+Foto
+Modelos Identificadores
